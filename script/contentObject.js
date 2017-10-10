@@ -6,12 +6,20 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpg",
+				"spring_4.jpg",
+				"spring_5.jpg",
+				"spring_6.jpg"
 			],
 
 			imageDescription : [
 				'These are some butterflies',
-				'This is a giant mutant chicken'
+				'This is a giant mutant chicken',
+				'Field of summer flowers',
+				'Beautiful purple summer flowers',
+				'Dog having fun in summer',
+				'Tulips in summer'
 			]
 		},
 
@@ -22,7 +30,20 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpg",
+				"summer_4.jpg",
+				"summer_5.jpg",
+				"summer_6.jpg"
+			],
+			
+			imageDescription : [
+				'Beach time during summer',
+				'Relax during summer',
+				'Have fun at the beach with your loved ones',
+				'Summer time',
+				'Relax and swim during summer',
+				'Enjoy summer seasonal fruits'
 			]
 		},
 
@@ -33,7 +54,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpg",
+				"autumn_4.jpg",
+				"autumn_5.jpg",
+				"autumn_6.jpg"
+			],
+			
+			imageDescription : [
+				'Autumn trail',
+				'Autumn seasonal products',
+				'Autumn leaves',
+				'Enjoy Autumn with your loved ones',
+				'Autumn panoramic',
+				'Autumn decorations'
 			]
 		},
 
@@ -44,7 +78,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpg",
+				"winter_4.jpg",
+				"winter_5.jpg",
+				"winter_6.jpg"
+			],
+			
+			imageDescription : [
+				'Winter forest',
+				'Winter snowman',
+				'Winter snowflake',
+				'Dogs love winter',
+				'Winter panoramic',
+				'Everyone enjoys winter'
 			]
     }
 	};

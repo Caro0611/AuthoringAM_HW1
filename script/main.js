@@ -81,12 +81,14 @@ var theImages = document.querySelectorAll('.image-holder'),
     lightbox.style.display = 'block';
 
     //wire up the close button
-    lightboxClose.addEventListener('click', closeLightbox, false);
+    lightboxClose.addEventListener('click', hideLightbox, false);
 
   }
 
-  function closeLightbox(){
-    debugger;
+  function hideLightbox(){
+    //debugger;
+ 	let lightbox = document.querySelector('.lightbox');
+    lightbox.style.display = 'none';
     //reset and close the lightbox- empty contents, reset the img src and the description text to nothing
   }
 
